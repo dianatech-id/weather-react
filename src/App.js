@@ -56,7 +56,7 @@ export default function App() {
         width="70"
       />
       <br />
-      <a href="https://github.com/dianatech-id"> Open source </a>
+      <a href="https://github.com/dianatech-id/weather-react"> Open source </a>
     </div>
   );
 }
